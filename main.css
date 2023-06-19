@@ -1,0 +1,11 @@
+table, th , td {
+border: 2px solid gray;
+border-collapse: collapse;
+padding: 3px;
+}
+th{
+    background-color: aqua;
+}
+tr {
+    background-color:palegreen ;
+}
